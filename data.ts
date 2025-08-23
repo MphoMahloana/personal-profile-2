@@ -5,7 +5,7 @@ export const personalData: PersonalData = {
     name: "Mpho Mahloana",
     title: "Data Analyst & Software Developer",
     bio: "I am a driven Data Analyst and Software Developer with a passion for uncovering insights from data and building efficient, user-friendly applications. I specialize in Python for data analysis and frontend technologies like React, allowing me to bridge the gap between raw data and impactful data-driven products. I thrive in collaborative environments and enjoy solving complex problems.",
-    avatarUrl: "WhatsApp Image 2025-08-17 at 00.58.07.jpeg",
+    avatarUrl: "public/assets/WhatsApp Image 2025-08-17 at 00.58.07.jpeg",
     contact: {
       email: "mabby.mpho01@gmail.com",
       linkedin: "https://www.linkedin.com/in/mpho-mahloana/",
@@ -14,6 +14,7 @@ export const personalData: PersonalData = {
   },
   cv: {
     summary: "A results-driven Data Analyst and Software Developer with experience in the full software development lifecycle. Proven ability to translate data into actionable insights and build high-quality applications. Expert in modern JavaScript frameworks, the Python data stack, and cloud technologies.",
+    downloadUrl: "public/assets/Updated_Mpho_Mahloana_CV (3) - Copy.docx",
     experience: [
       {
         title: "Data Analyst & Developer",
